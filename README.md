@@ -4,3 +4,4 @@
 
 - [国内外主流大模型选型调研：价格、能力与真实用量](2026-09-12-llm-selection/README.md) - [online page](https://impossible87.github.io/assignments/2026-09-12-llm-selection/)
 - [Hermes Agent 上手指南：从装好到用顺](2026-09-15-hermes-agent/README.md) - [online page](https://impossible87.github.io/assignments/2026-09-15-hermes-agent/)
+- [前缀缓存：为什么改一个字，整段就白算了](2026-09-22-prompt-caching/README.md) - [online page](https://impossible87.github.io/assignments/2026-09-22-prompt-caching/)
